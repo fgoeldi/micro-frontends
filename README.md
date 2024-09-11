@@ -18,6 +18,7 @@ micro-frontends/
 │
 └── remote/        # Remote application
     ├── src/
+    │     └── App.tsx
     │     └── Hello.tsx
     ├── webpack.config.js
     ├── package.json
